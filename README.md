@@ -36,10 +36,7 @@ A http server for file management on android. And it is achieved by native andro
 
 * Much simpler to write JavaScript.
 
-[AjaxFileUpload](http://www.phpletter.com/Our-Projects/AjaxFileUpload/): ajaxfileupload.min.js
+[AjaxFileUpload](https://github.com/davgothic/AjaxFileUpload): ajaxfileupload.min.js
 
 * Do some amendments for several problems.
 
-## Download
-
-[AndroidWebServ-release-v1.0.apk](https://add110.opendrive.com/files?70641844_EYGvD)
